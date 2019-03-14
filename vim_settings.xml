@@ -1,0 +1,258 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler/requester.py" timestamp="1551368143195">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/app.py" timestamp="1551547908356">
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service_init/es_init/initializer.py" timestamp="1551793253950">
+        <mark key="[" line="34" column="29" />
+        <mark key="]" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+      </file>
+      <file name="/Python Console" timestamp="1551687553178">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/es-init/app.py" timestamp="1551611469803">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
+        <mark key="^" line="34" column="24" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service-app/es_init/initializer.py" timestamp="1551613085782">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+      </file>
+      <file name="/a.dummy" timestamp="1551613042485">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service-app/es_init/__init__.py" timestamp="1551613035671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/app.py" timestamp="1551428244603">
+        <mark key="[" line="57" column="35" />
+        <mark key="]" line="57" column="33" />
+        <mark key="^" line="57" column="33" />
+        <mark key="." line="57" column="33" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/.gitignore" timestamp="1551346517426">
+        <mark key="[" line="115" column="6" />
+        <mark key="]" line="112" column="9" />
+        <mark key="^" line="112" column="9" />
+        <mark key="." line="112" column="9" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/crawler/product.py" timestamp="1551541180505">
+        <mark key="[" line="2" column="76" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service-app/app.py" timestamp="1551613153219">
+        <mark key="[" line="55" column="61" />
+        <mark key="]" line="55" column="95" />
+        <mark key="^" line="55" column="95" />
+        <mark key="." line="55" column="95" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/es_sender/sender.py" timestamp="1551547193167">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="7" column="35" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler/product.py" timestamp="1551428081136">
+        <mark key="[" line="13" column="95" />
+        <mark key="]" line="13" column="104" />
+        <mark key="^" line="13" column="104" />
+        <mark key="." line="13" column="104" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/search_rest/query_builder.py" timestamp="1551863762868">
+        <mark key="[" line="53" column="32" />
+        <mark key="]" line="53" column="30" />
+        <mark key="." line="53" column="30" />
+        <mark key="^" line="53" column="30" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/classifier/src/__init__.py" timestamp="1551352995035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/es-init/index-templates.json" timestamp="1551610739599">
+        <mark key="[" line="1" column="15" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/product_spider/product_spider/spiders/product_spider.py" timestamp="1551352389956">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="22" column="45" />
+        <mark key="." line="22" column="45" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/search_rest/es_searcher.py" timestamp="1551879059263">
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="41" column="49" />
+        <mark key="." line="41" column="49" />
+        <mark key="^" line="41" column="49" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service_init/es_sender/sender.py" timestamp="1551876587691">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/es_sender/sender.py" timestamp="1551432705369">
+        <mark key="[" line="28" column="20" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/search_rest/app.py" timestamp="1551863945352">
+        <mark key="[" line="77" column="36" />
+        <mark key="]" line="77" column="35" />
+        <mark key="." line="77" column="35" />
+        <mark key="^" line="77" column="35" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/es-sender/sender.py" timestamp="1551427671073">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="47" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service_init/classifier/classifier.py" timestamp="1551774546132">
+        <mark key="[" line="109" column="32" />
+        <mark key="]" line="108" column="69" />
+        <mark key="^" line="108" column="69" />
+        <mark key="." line="108" column="69" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler/request.py" timestamp="1551354012591">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service_init/app.py" timestamp="1551878501708">
+        <mark key="[" line="83" column="7" />
+        <mark key="]" line="84" column="3" />
+        <mark key="^" line="84" column="3" />
+        <mark key="." line="84" column="3" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/src/product_spider/__init__.py" timestamp="1551347408288">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/classifier/classifier.py" timestamp="1551406752858">
+        <mark key="[" line="116" column="38" />
+        <mark key="]" line="116" column="36" />
+        <mark key="^" line="116" column="36" />
+        <mark key="." line="116" column="36" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/crawler/requester.py" timestamp="1551544807502">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler/parser.py" timestamp="1551369076646">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/crawler/parser.py" timestamp="1551546835776">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/Workspace/python/buzzni-search-service/service_init/crawler/parser.py" timestamp="1551878560057">
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="34" column="23" />
+        <mark key="^" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>product</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEVTX0luaXRpYWxpemVyKCIiLCAwLCAiQzpcV29ya3NwYWNlXHB5dGhvblxcYnV6em5pLXNlYXJjaC1zZXJ2aWNlXFxkYXRhIikuaW5pdGlhbGl6ZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQob2JqW2ldKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQob2JqW2ldKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+      </register>
+      <register name=":" type="4">
+        <text>action EditorRightWithSelection</text>
+      </register>
+      <register name="-" type="4">
+        <text>product</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

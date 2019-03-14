@@ -1,0 +1,54 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesPython" value="false" />
+    <property name="PACKAGE_FILTER" value="absl&#10;flask-cors&#10;tensorflow&#10;elasticsearch&#10;flask" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="PyCharm.initialConfigurationShown" value="true" />
+    <property name="SettingsSearchHistory" value="sync&#10;sett" />
+    <property name="TrendingPluginsSearchHistory" value="key promoter&#10;mate" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Desktop/Gooey.icls&#10;C:/Workspace/python/buzzni-search-service/service_init&#10;C:/Workspace/python/buzzni-search-service/service-app&#10;C:/Workspace/python/buzzni-search-service/crawler-app&#10;C:/Workspace/python/buzzni-search-service&#10;C:/Workspace/python/buzzni-search-service/product_spider&#10;C:/Workspace/python" />
+    <property name="file.gist.reindex.count" value="81981" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="ideavim.statistics.timestamp" value="1552580954145" />
+    <property name="lastTip" value="1" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="selected.color.option.type" value="METHOD_SEPARATORS_COLOR" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Workspace\python\buzzni-search-service\crawler-app\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\product_spider\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\service-app\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\service_init\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Workspace\python\buzzni-search-service\crawler-app\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\product_spider\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\service-app\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\service_init\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Workspace\python\buzzni-search-service\crawler-app\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\product_spider\venv\Scripts\python.exe" value="true" />
+        <entry key="C:\Workspace\python\buzzni-search-service\service-app\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\service_init\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Workspace\python\buzzni-search-service\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
