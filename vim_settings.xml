@@ -33,12 +33,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1553958534634">
-        <mark key="'" line="150" column="31" />
-        <mark key="[" line="206" column="8" />
-        <mark key="]" line="206" column="8" />
-        <mark key="^" line="206" column="14" />
-        <mark key="." line="206" column="8" />
+      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1553961655296">
+        <mark key="'" line="148" column="31" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/app.py" timestamp="1551428244603">
         <mark key="[" line="57" column="35" />
@@ -194,8 +193,8 @@
       <jump line="150" column="31" filename="D:/Dev/Python/RLTrader/policy_learner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -204,25 +203,25 @@
         <text encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9wcmljZSAqICgxICsgc2VsZi5UUkFESU5HX0NIQVJHRSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9wcmljZSAqICgxICsgc2VsZi5UUkFESU5HX0NIQVJHRSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -231,7 +230,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -248,8 +247,8 @@
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
