@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/Workspace/python/buzzni-search-service/crawler/requester.py" timestamp="1551368143195">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/app.py" timestamp="1551547908356">
-        <mark key="[" line="38" column="57" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="C:/Workspace/python/buzzni-search-service/service_init/es_init/initializer.py" timestamp="1551793253950">
         <mark key="[" line="34" column="29" />
         <mark key="]" line="34" column="28" />
@@ -43,6 +33,13 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1553957934194">
+        <mark key="'" line="150" column="31" />
+        <mark key="[" line="205" column="101" />
+        <mark key="]" line="205" column="115" />
+        <mark key="^" line="205" column="115" />
+        <mark key="." line="205" column="115" />
+      </file>
       <file name="C:/Workspace/python/buzzni-search-service/app.py" timestamp="1551428244603">
         <mark key="[" line="57" column="35" />
         <mark key="]" line="57" column="33" />
@@ -67,11 +64,6 @@
         <mark key="]" line="22" column="49" />
         <mark key="^" line="22" column="49" />
         <mark key="." line="22" column="49" />
-      </file>
-      <file name="C:/Workspace/python/buzzni-search-service/crawler-app/crawler/product.py" timestamp="1551541180505">
-        <mark key="[" line="2" column="76" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/service-app/app.py" timestamp="1551613153219">
         <mark key="[" line="55" column="61" />
@@ -127,6 +119,9 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1553956163082">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/Workspace/python/buzzni-search-service/es_sender/sender.py" timestamp="1551432705369">
         <mark key="[" line="28" column="20" />
       </file>
@@ -175,13 +170,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="C:/Workspace/python/buzzni-search-service/crawler/parser.py" timestamp="1551369076646">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="D:/Dev/Python/RLTrader/visualizer.py" timestamp="1553954649859">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Dev/Python/RLTrader/visualizer.py" timestamp="1553956083435">
+        <mark key="[" line="35" column="96" />
+        <mark key="]" line="35" column="96" />
+        <mark key="^" line="35" column="96" />
+        <mark key="." line="35" column="96" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/crawler-app/crawler/parser.py" timestamp="1551546835776">
         <mark key="[" line="2" column="0" />
@@ -198,28 +191,35 @@
     </filemarks>
     <jumps>
       <jump line="14" column="37" filename="D:/Dev/Python/RLTrader/agent.py" />
+      <jump line="150" column="31" filename="D:/Dev/Python/RLTrader/policy_learner.py" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="-" type="4">
         <text>sigmoi</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
+      <register name="/" type="4">
+        <text encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</text>
       </register>
-      <register name="3" type="2">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9wcmljZSAqICgxICsgc2VsZi5UUkFESU5HX0NIQVJHRSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9wcmljZSAqICgxICsgc2VsZi5UUkFESU5HX0NIQVJHRSkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -228,21 +228,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDownWithSelection</text>
       </register>
-      <register name="-" type="4">
-        <text>sigmoi</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</entry>
+      </history-search>
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
@@ -276,6 +278,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
