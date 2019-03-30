@@ -49,12 +49,12 @@
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="33" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1553951967707">
+      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1553952914200">
         <mark key="'" line="14" column="37" />
-        <mark key="[" line="99" column="9" />
-        <mark key="]" line="99" column="11" />
-        <mark key="^" line="99" column="11" />
-        <mark key="." line="99" column="11" />
+        <mark key="[" line="161" column="34" />
+        <mark key="]" line="161" column="33" />
+        <mark key="." line="161" column="33" />
+        <mark key="^" line="161" column="33" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/.gitignore" timestamp="1551346517426">
         <mark key="[" line="115" column="6" />
@@ -78,6 +78,12 @@
         <mark key="]" line="55" column="95" />
         <mark key="^" line="55" column="95" />
         <mark key="." line="55" column="95" />
+      </file>
+      <file name="D:/Dev/Python/RLTrader/policy_network.py" timestamp="1553954022807">
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="16" column="71" />
+        <mark key="^" line="16" column="71" />
+        <mark key="." line="16" column="71" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/crawler-app/es_sender/sender.py" timestamp="1551547193167">
         <mark key="[" line="18" column="0" />
@@ -192,40 +198,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>True</text>
+        <text>sigmoi</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9wcmljZSAqICgxICsgc2VsZi5UUkFESU5HX0NIQVJHRSkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEVTX0luaXRpYWxpemVyKCIiLCAwLCAiQzpcV29ya3NwYWNlXHB5dGhvblxcYnV6em5pLXNlYXJjaC1zZXJ2aWNlXFxkYXRhIikuaW5pdGlhbGl6ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQob2JqW2ldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcHJpbnQob2JqW2ldKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">aWYgX19uYW1lX18gPT0gJ19fbWFpbl9fJzoK</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorRightWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>sigmoi</text>
       </register>
     </registers>
     <search>
@@ -235,10 +241,10 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
