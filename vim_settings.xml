@@ -49,6 +49,13 @@
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="33" />
       </file>
+      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1553945331590">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="26" column="48" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+      </file>
       <file name="C:/Workspace/python/buzzni-search-service/.gitignore" timestamp="1551346517426">
         <mark key="[" line="115" column="6" />
         <mark key="]" line="112" column="9" />
@@ -180,7 +187,9 @@
         <mark key="." line="34" column="23" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="14" column="37" filename="D:/Dev/Python/RLTrader/agent.py" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
