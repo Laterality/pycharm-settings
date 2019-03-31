@@ -36,12 +36,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1554025247757">
-        <mark key="'" line="151" column="31" />
-        <mark key="[" line="112" column="36" />
-        <mark key="]" line="112" column="41" />
-        <mark key="." line="112" column="41" />
-        <mark key="^" line="112" column="41" />
+      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1554031899099">
+        <mark key="'" line="148" column="31" />
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/app.py" timestamp="1551428244603">
         <mark key="[" line="57" column="35" />
@@ -110,11 +109,11 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/main.py" timestamp="1554025761945">
-        <mark key="[" line="62" column="56" />
-        <mark key="]" line="62" column="54" />
-        <mark key="^" line="62" column="54" />
-        <mark key="." line="62" column="54" />
+      <file name="D:/Dev/Python/RLTrader/main.py" timestamp="1554032241765">
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="28" />
+        <mark key="^" line="59" column="28" />
+        <mark key="." line="59" column="28" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/classifier/src/__init__.py" timestamp="1551352995035">
         <mark key="[" line="0" column="0" />
@@ -215,41 +214,41 @@
       <jump line="150" column="31" filename="D:/Dev/Python/RLTrader/policy_learner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>elapsed</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>elapsed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgibG9vcDogJWQiICUgY250KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvYWRfY2hhcnRfZGF0YSgiLi9kYXRhL2NoYXJ0X2RhdGEvMDk5MjIwLmNzdiIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY250ID0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNudCArPSAxCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvYWRfY2hhcnRfZGF0YSgiLi9kYXRhL2NoYXJ0X2RhdGEvMDk5MjIwLmNzdiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorDownWithSelection</text>
