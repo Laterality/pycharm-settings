@@ -9,7 +9,7 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
-      <file name="/Python Console" timestamp="1551687553178">
+      <file name="/Python Console" timestamp="1554026371405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/es-init/app.py" timestamp="1551611469803">
@@ -24,6 +24,9 @@
         <mark key="^" line="39" column="3" />
         <mark key="." line="39" column="3" />
       </file>
+      <file name="/fragment.py" timestamp="1554026395498">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1551613042485">
         <mark key="[" line="0" column="0" />
       </file>
@@ -33,12 +36,12 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1553963796205">
-        <mark key="'" line="148" column="31" />
-        <mark key="[" line="229" column="64" />
-        <mark key="]" line="229" column="62" />
-        <mark key="." line="229" column="62" />
-        <mark key="^" line="229" column="62" />
+      <file name="D:/Dev/Python/RLTrader/policy_learner.py" timestamp="1554025247757">
+        <mark key="'" line="151" column="31" />
+        <mark key="[" line="112" column="36" />
+        <mark key="]" line="112" column="41" />
+        <mark key="." line="112" column="41" />
+        <mark key="^" line="112" column="41" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/app.py" timestamp="1551428244603">
         <mark key="[" line="57" column="35" />
@@ -46,18 +49,18 @@
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="33" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/data_manager.py" timestamp="1554017674496">
+      <file name="D:/Dev/Python/RLTrader/data_manager.py" timestamp="1554022088274">
         <mark key="[" line="50" column="49" />
         <mark key="]" line="50" column="48" />
         <mark key="." line="50" column="48" />
         <mark key="^" line="50" column="48" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1553952914200">
+      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1554022994075">
         <mark key="'" line="14" column="37" />
-        <mark key="[" line="161" column="34" />
-        <mark key="]" line="161" column="33" />
-        <mark key="." line="161" column="33" />
-        <mark key="^" line="161" column="33" />
+        <mark key="[" line="162" column="12" />
+        <mark key="]" line="162" column="12" />
+        <mark key="." line="162" column="12" />
+        <mark key="^" line="162" column="12" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/.gitignore" timestamp="1551346517426">
         <mark key="[" line="115" column="6" />
@@ -65,11 +68,11 @@
         <mark key="^" line="112" column="9" />
         <mark key="." line="112" column="9" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/environment.py" timestamp="1553943986199">
-        <mark key="[" line="22" column="51" />
-        <mark key="]" line="22" column="49" />
-        <mark key="^" line="22" column="49" />
-        <mark key="." line="22" column="49" />
+      <file name="D:/Dev/Python/RLTrader/environment.py" timestamp="1554022620545">
+        <mark key="[" line="23" column="19" />
+        <mark key="]" line="23" column="19" />
+        <mark key="^" line="23" column="19" />
+        <mark key="." line="23" column="19" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/service-app/app.py" timestamp="1551613153219">
         <mark key="[" line="55" column="61" />
@@ -82,6 +85,12 @@
         <mark key="]" line="16" column="71" />
         <mark key="^" line="16" column="71" />
         <mark key="." line="16" column="71" />
+      </file>
+      <file name="D:/Dev/Python/RLTrader/settings.py" timestamp="1554020870461">
+        <mark key="[" line="86" column="18" />
+        <mark key="]" line="86" column="17" />
+        <mark key="^" line="86" column="17" />
+        <mark key="." line="86" column="17" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/crawler-app/es_sender/sender.py" timestamp="1551547193167">
         <mark key="[" line="18" column="0" />
@@ -100,6 +109,12 @@
         <mark key="]" line="53" column="30" />
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
+      </file>
+      <file name="D:/Dev/Python/RLTrader/main.py" timestamp="1554025761945">
+        <mark key="[" line="62" column="56" />
+        <mark key="]" line="62" column="54" />
+        <mark key="^" line="62" column="54" />
+        <mark key="." line="62" column="54" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/classifier/src/__init__.py" timestamp="1551352995035">
         <mark key="[" line="0" column="0" />
@@ -125,7 +140,7 @@
         <mark key="." line="25" column="16" />
         <mark key="^" line="25" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553956163082">
+      <file name="/Dummy.txt" timestamp="1554026396890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/es_sender/sender.py" timestamp="1551432705369">
@@ -176,11 +191,11 @@
         <mark key="^" line="10" column="16" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/visualizer.py" timestamp="1553956083435">
-        <mark key="[" line="35" column="96" />
-        <mark key="]" line="35" column="96" />
-        <mark key="^" line="35" column="96" />
-        <mark key="." line="35" column="96" />
+      <file name="D:/Dev/Python/RLTrader/visualizer.py" timestamp="1554024876788">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="91" column="2" />
+        <mark key="^" line="91" column="2" />
+        <mark key="." line="91" column="2" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/crawler-app/crawler/parser.py" timestamp="1551546835776">
         <mark key="[" line="2" column="0" />
@@ -237,7 +252,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorUpWithSelection</text>
+        <text>action EditorDownWithSelection</text>
       </register>
     </registers>
     <search>
@@ -254,8 +269,8 @@
       <history-cmd>
         <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorDownWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
+        <entry>action EditorDownWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -290,6 +305,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
