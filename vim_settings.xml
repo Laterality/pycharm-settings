@@ -46,6 +46,12 @@
         <mark key="^" line="57" column="33" />
         <mark key="." line="57" column="33" />
       </file>
+      <file name="D:/Dev/Python/RLTrader/data_manager.py" timestamp="1554017674496">
+        <mark key="[" line="50" column="49" />
+        <mark key="]" line="50" column="48" />
+        <mark key="." line="50" column="48" />
+        <mark key="^" line="50" column="48" />
+      </file>
       <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1553952914200">
         <mark key="'" line="14" column="37" />
         <mark key="[" line="161" column="34" />
@@ -207,28 +213,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvYWRfY2hhcnRfZGF0YSgiLi9kYXRhL2NoYXJ0X2RhdGEvMDk5MjIwLmNzdiIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY3Vycl9wcmljZSAqICgxICsgc2VsZi5UUkFESU5HX0NIQVJHRSkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnQoc2VsZi5iYWxhbmNlIC8gKGN1cnJfcHJpY2UgKiAoMSArIHNlbGYuVFJBRElOR19DSEFSR0UpICogdHJhZGluZ191bml0KSwgc2VsZi5taW5fdHJhZGluZ191bml0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action EditorUpWithSelection</text>
