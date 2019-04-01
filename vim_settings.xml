@@ -85,11 +85,11 @@
         <mark key="^" line="16" column="71" />
         <mark key="." line="16" column="71" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/main_notraining.py" timestamp="1554115699550">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="9" column="33" />
+      <file name="D:/Dev/Python/RLTrader/main_notraining.py" timestamp="1554120467544">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
         <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="D:/Dev/Python/RLTrader/settings.py" timestamp="1554020870461">
         <mark key="[" line="86" column="18" />
@@ -220,11 +220,11 @@
       <jump line="150" column="31" filename="D:/Dev/Python/RLTrader/policy_learner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBvbGljeV9sZWFybmVyLmZpdChiYWxhbmNlPTEwMDAwMDAwLCBudW1fZXBvY2hlcz0xMDAwLCBkaXNjb3VudF9mYWN0b3I9MCwgc3RhcnRfZXBzaWxvbj0uNSkK</text>
+      <register name="&quot;" type="4">
+        <text>20190401170038</text>
       </register>
       <register name="-" type="4">
-        <text>elapsed</text>
+        <text>20190401170038</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</text>
