@@ -251,7 +251,7 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorDownWithSelection</text>
+        <text>action EditorLeftWithSelection</text>
       </register>
     </registers>
     <search>
@@ -266,10 +266,10 @@
         <entry encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorLeftWithSelection</entry>
         <entry>action EditorRightWithSelection</entry>
         <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
+        <entry>action EditorLeftWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
