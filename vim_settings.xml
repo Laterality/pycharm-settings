@@ -54,12 +54,12 @@
         <mark key="." line="50" column="48" />
         <mark key="^" line="50" column="48" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1554022994075">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="162" column="12" />
-        <mark key="]" line="162" column="12" />
-        <mark key="." line="162" column="12" />
-        <mark key="^" line="162" column="12" />
+      <file name="D:/Dev/Python/RLTrader/agent.py" timestamp="1554114307520">
+        <mark key="'" line="15" column="37" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="163" column="12" />
+        <mark key="." line="163" column="12" />
+        <mark key="^" line="163" column="12" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/.gitignore" timestamp="1551346517426">
         <mark key="[" line="115" column="6" />
@@ -85,6 +85,12 @@
         <mark key="^" line="16" column="71" />
         <mark key="." line="16" column="71" />
       </file>
+      <file name="D:/Dev/Python/RLTrader/main_notraining.py" timestamp="1554115699550">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+      </file>
       <file name="D:/Dev/Python/RLTrader/settings.py" timestamp="1554020870461">
         <mark key="[" line="86" column="18" />
         <mark key="]" line="86" column="17" />
@@ -109,11 +115,11 @@
         <mark key="." line="53" column="30" />
         <mark key="^" line="53" column="30" />
       </file>
-      <file name="D:/Dev/Python/RLTrader/main.py" timestamp="1554103378473">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="59" column="28" />
-        <mark key="^" line="59" column="28" />
-        <mark key="." line="59" column="28" />
+      <file name="D:/Dev/Python/RLTrader/main.py" timestamp="1554115225358">
+        <mark key="[" line="37" column="79" />
+        <mark key="]" line="37" column="77" />
+        <mark key="^" line="37" column="77" />
+        <mark key="." line="37" column="77" />
       </file>
       <file name="C:/Workspace/python/buzzni-search-service/classifier/src/__init__.py" timestamp="1551352995035">
         <mark key="[" line="0" column="0" />
@@ -214,8 +220,8 @@
       <jump line="150" column="31" filename="D:/Dev/Python/RLTrader/policy_learner.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>elapsed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBvbGljeV9sZWFybmVyLmZpdChiYWxhbmNlPTEwMDAwMDAwLCBudW1fZXBvY2hlcz0xMDAwLCBkaXNjb3VudF9mYWN0b3I9MCwgc3RhcnRfZXBzaWxvbj0uNSkK</text>
       </register>
       <register name="-" type="4">
         <text>elapsed</text>
@@ -224,34 +230,34 @@
         <text encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgibG9vcDogJWQiICUgY250KQo=</text>
+        <text encoding="base64">ICAgIHBvbGljeV9sZWFybmVyLmZpdChiYWxhbmNlPTEwMDAwMDAwLCBudW1fZXBvY2hlcz0xMDAwLCBkaXNjb3VudF9mYWN0b3I9MCwgc3RhcnRfZXBzaWxvbj0uNSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY250ID0gMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludCgibG9vcDogJWQiICUgY250KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNudCArPSAxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY250ID0gMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNudCArPSAxCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvYWRfY2hhcnRfZGF0YSgiLi9kYXRhL2NoYXJ0X2RhdGEvMDk5MjIwLmNzdiIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
+        <text encoding="base64">ICAgIGxvYWRfY2hhcnRfZGF0YSgiLi9kYXRhL2NoYXJ0X2RhdGEvMDk5MjIwLmNzdiIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action EditorLeftWithSelection</text>
+        <text>action EditorUpWithSelection</text>
       </register>
     </registers>
     <search>
@@ -266,10 +272,10 @@
         <entry encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action EditorRightWithSelection</entry>
-        <entry>action EditorUpWithSelection</entry>
         <entry>action EditorDownWithSelection</entry>
         <entry>action EditorLeftWithSelection</entry>
+        <entry>action EditorRightWithSelection</entry>
+        <entry>action EditorUpWithSelection</entry>
       </history-cmd>
       <history-expr />
       <history-input />
