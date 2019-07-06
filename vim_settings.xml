@@ -9,6 +9,12 @@
         <mark key="." line="34" column="28" />
         <mark key="^" line="34" column="28" />
       </file>
+      <file name="C:/Workspace/python/tconda-test/src/app.py" timestamp="1562426889783">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="/Python Console" timestamp="1554108288952">
         <mark key="[" line="0" column="0" />
       </file>
@@ -221,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20190401170038</text>
+        <text>str</text>
       </register>
       <register name="-" type="4">
-        <text>20190401170038</text>
+        <text>str</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlX3BvcnRmb2xpb192YWx1ZVw+</text>
